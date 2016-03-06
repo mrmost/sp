@@ -244,14 +244,23 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {112742271},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
-
-channel : @Nod32team
-sodu : @behrooZyaghi
+    about_text = [[SilVeR-BoT V5.5.2
+ ☑️SilVeR-RoBoT☑️
+⚜ This Is Old BoT Of Telegram ⚜
+💯~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💯
+💊💉👾🎭
+🔘Admin
+           ✅@Mr_SilVeR1[Developer,sudo]
+🔱〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰🔱
+⚔☠
+🤖 This BoT Is a Best BoT 🤖
+😈 This BoT Can Fuck All OF The Sapmmers 😈
+⚠️〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰⚠️
+🔵Our Channel:
+@Silverbotchannel
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -320,7 +329,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+SilVeR-BoT Commands list :
  
 1-banhammer list ^
  
@@ -517,7 +526,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @Silverbotchannel
 
 G00D LUCK ^_^
 ]]
